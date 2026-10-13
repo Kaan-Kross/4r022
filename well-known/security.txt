@@ -1,5 +1,0 @@
-Contact: https://github.com/kaan-kross/4r022/security/advisories/new
-Expires: 2027-10-11T00:00:00.000Z
-Preferred-Languages: tr, en
-Canonical: https://kaan-kross.github.io/4r022/.well-known/security.txt
-Policy: https://kaan-kross.github.io/4r022/legal.html#security
